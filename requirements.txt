@@ -4,4 +4,4 @@ numpy==1.21.6
 tensorflow==1.14.0
 scikit-learn==1.0.2
 matplotlib==3.3.2
-IPython>1,0,0
+IPython>1.0.0
